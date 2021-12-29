@@ -1,40 +1,26 @@
-AlertOps Expert Guidance
+Choose an Alert Monitoring System with Manual Paging Capabilities
 ========
+Every second counts, particularly for a business operating in today’s highly competitive global marketplace. In a recent survey of more than 800 organizations, research and consulting firm Information Technology Intelligence Consulting (ITIC) found 98 percent of enterprises with more than 1,000 employees said a single hour of downtime per year cost over $100,000. Meanwhile, 81 percent of ITIC survey respondents reported the cost of downtime exceeded $300,000 per hour.
 
- 
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Alert monitoring systems with paging capabilities are available to help companies speed up incident management and response. These systems enable incident management teams across a business to connect with one another and troubleshoot and resolve incidents. Yet not all alert monitoring systems with paging capabilities are identical. And if you choose one that lacks manual paging capabilities, you could put your company, its employees and its customers in danger.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+Some alert tracking systems drive automation and blast out lots of messages to large groups of incident management team members. These systems allow companies to notify their incident management teams about incidents and keep all team members up to date until issues are fully resolved. At the same time, sending out messages to all incident management team members – including those who are not directly involved in an incident – can be problematic. By bombarding incident management team members with messages, alert fatigue may develop across a team. Perhaps worst of all, incident management team members may begin to tune out certain messages over time.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+If you’re on the lookout for an alert monitoring system, you should consider one that offers manual paging capabilities. Because if your system provides you with the ability to select incident management team members or groups and page stakeholders separately, you can ensure the right people are notified about each incident. Best of all, you can reduce the risk of alert fatigue and speed up incident management and response.
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+When it comes to alert tracking, there are many reasons why a business should choose a system that includes manual paging capabilities. These reasons include:
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+    Manual paging allows incident management team members to use a conference bridge to stay connected. Thanks to a conference bridge, incident management team members won’t have to worry about searching for dial-in instructions to join a group call. Instead, they can use a voice or email message to join a call.
+    Incident management team members can send page-outs to large groups simultaneously.An alert monitoring system with manual paging capabilities enables incident management team members to instantly send alerts to multiple groups at the same time.
+    Manual pages can be sent via a service desk app.By using an alert monitoring system with manual paging capabilities, incident management team members can assign a group and bridge number from a service desk and provide detailed status updates to a service desk in real-time.
+    Incident management team members can take advantage of pre-built templates. Pre-built templates enable incident management team members to quickly page out for a major incident. Plus, topics can be assigned to specific teams to further accelerate incident management and response.
+    Incident management teams can keep track of each person notified about an incident. An incident management system with manual paging capabilities keeps a record of every person who was alerted, along with alert method, escalations and acknowledgements for each alert.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
-
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
-
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
-
-1 Red Canary 2021 Threat Detection Report
+If a company empowers its incident management teams with an alert monitoring system that features manual paging capabilities, it could help these teams become more productive and efficient than ever before. These teams also can use a state-of-the-art incident management system to reduce downtime, outages and other critical incidents. As a result, an alert monitoring system with manual paging capabilities could help a business improve its operations, lower its operating costs and much more.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-paging-feature/
 
 Read more:
 ====
